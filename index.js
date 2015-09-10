@@ -1,4 +1,4 @@
-WORLDWORLDWORLD
+TEST TEST TEST
 var path = require('path');
 var url = require('url');
 var exists = require('101/exists');
